@@ -1,9 +1,9 @@
 # Dataset de Abejas Sin Aguijón del Ecuador (Tribu Meliponini) 🐝🇪🇨
 
-Este repositorio contiene el Dataset Fotográfico de Abejas de la Tribu Meliponini del Ecuador, desarrollado en el marco del Trabajo de Fin de Máster (Máster Universitario en Inteligencia Artificial - UNIR) titulado: "Identificador de abejas de la tribu Meliponini del Ecuador, usando técnicas de clasificación y visión artificial" por Gabriel Patricio Bonilla Sánchez y Renán Benjamín Nazate Ortiz.
+Este repositorio contiene el Dataset Fotográfico de Abejas de la Tribu Meliponini del Ecuador, desarrollado en el marco del Trabajo de Fin de Máster (Máster Universitario en Inteligencia Artificial - UNIR) titulado: **Identificador de abejas de la tribu Meliponini del Ecuador, usando técnicas de clasificación y visión artificial** por Gabriel Patricio Bonilla Sánchez y Renán Benjamín Nazate Ortiz.
 
 ## 📌 Resumen del Dataset
-El conjunto de datos comprende 10 especies representativas de abejas sin aguijón (Meliponini) presentes en distintas regiones y ecosistemas del Ecuador (principalmente la provincia de El Oro, la Amazonía y la provincia de Santo Domingo de los Tsáchilas).
+El conjunto de datos comprende *10 especies representativas de abejas sin aguijón (Meliponini)* presentes en distintas regiones y ecosistemas del Ecuador (principalmente la provincia de El Oro, la Amazonía y la provincia de Santo Domingo de los Tsáchilas).
 
 ## 🔍 Especificaciones Técnicas
 
